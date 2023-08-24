@@ -93,3 +93,13 @@ def compute_sugeno_weighted_mean_rank(sugeno_scores, weighted_mean_scores):
             for idj, j in enumerate(duplicate_indices[i]):
                 sugeno_weighted_mean_rank[j] = i + weight_order_copy[idj]
     return sugeno_rank, weighted_mean_rank, sugeno_weighted_mean_rank
+
+'''
+THIS FUNCTION PRODUCES THE RANKING ORDER BASED SUGENO INTEGRAL
+'''
+def compute_sugeno_rank(sugeno_scores):
+    sugeno_sorted = sorted(sugeno_scores, reverse=True)
+    sugeno_rank = []
+    for item in sugeno_scores:
+        sugeno_rank.append(sugeno_sorted.index(item) + 1)
+    return sugeno_rank
