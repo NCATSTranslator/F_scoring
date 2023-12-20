@@ -1,0 +1,242 @@
+﻿Disease,Drugs,Benchmark
+Aceruloplasminemia,Iron (PUBCHEM),4_NeverShow
+Aceruloplasminemia,organic group,4_NeverShow
+Aceruloplasminemia,desferrioxamine,1_TopAnswer
+Aceruloplasminemia,Iron (PUBCHEM),3_BadButForgivable
+Aceruloplasminemia,Organic Chemicals,4_NeverShow
+Aceruloplasminemia,molecular entity,4_NeverShow
+Aceruloplasminemia,molecule,4_NeverShow
+Aceruloplasminemia,oxygen molecular entity,4_NeverShow
+Aceruloplasminemia,polyatomic entity,4_NeverShow
+Aceruloplasminemia,carbon group molecular entity,4_NeverShow
+Aceruloplasminemia,inorganic chemicals,4_NeverShow
+Aceruloplasminemia,heteroorganic entity,4_NeverShow
+Aceruloplasminemia,main group molecular entity,4_NeverShow
+Aceruloplasminemia,heteroatomic molecular entity,4_NeverShow
+Aceruloplasminemia,cyclic compound,4_NeverShow
+Aceruloplasminemia,heterocyclic compounds,4_NeverShow
+Aceruloplasminemia,inorganic oxide,4_NeverShow
+Aceruloplasminemia,chemical entity,4_NeverShow
+Aceruloplasminemia,cell nucleus,4_NeverShow
+Aceruloplasminemia,Rotenone,4_NeverShow
+ADHD,Cocaine,4_NeverShow
+ADHD,Methylphenidate,2_Acceptable
+Aggressive Systemic Mastocytosis,Histamine,4_NeverShow
+Aggressive Systemic Mastocytosis,ibuprofen,4_NeverShow
+Aggressive Systemic Mastocytosis,botulinum toxin,4_NeverShow
+Aggressive Systemic Mastocytosis,dinoprostone,4_NeverShow
+Aggressive Systemic Mastocytosis,calcitriol,4_NeverShow
+Aggressive Systemic Mastocytosis,ergocalciferol,4_NeverShow
+Aggressive Systemic Mastocytosis,4-Aminopyridine,4_NeverShow
+Allergic Asthma,particulate matter,4_NeverShow
+Allergic Rhinitis,Folic Acid,4_NeverShow
+Allergic Rhinitis,Loratidine,2_Acceptable
+Allergic Rhinitis,Cetirizine,2_Acceptable
+Allergic Rhinitis,Desloratadine,2_Acceptable
+Allergic Rhinitis,Mometasone Furoate,2_Acceptable
+Allergic Rhinitis,Cromolyn,2_Acceptable
+Alzheimer Disease,Pharmaceutical preparations,4_NeverShow
+Approved for Familial defective apolipoprotein B (APOB),Rosuvastatin,1_TopAnswer
+Approved for Familial defective apolipoprotein B (APOB),Evolocumab,1_TopAnswer
+Approved for Familial hypercholesterolemia heterozygous (LDLR),Rosuvastatin,1_TopAnswer
+Approved for Familial hypercholesterolemia heterozygous (LDLR),Evolocumab,1_TopAnswer
+Approved for Familial hypercholesterolemia homozygous (LDLR),Rosuvastatin,1_TopAnswer
+Approved for Familial hypercholesterolemia homozygous (LDLR),Lomitapide,1_TopAnswer
+Approved for Familial hypercholesterolemia homozygous (LDLR),Mipomersen,1_TopAnswer
+Approved for Familial hypercholesterolemia homozygous (LDLR),Evolocumab,1_TopAnswer
+Autism,Valproic acid,4_NeverShow
+Autism,Pesticides,4_NeverShow
+Castleman Disease,Vehicle Emissions,4_NeverShow
+Cerebral palsy,Antibiotics,4_NeverShow
+Cerebral palsy,Pharmaceutical preparations,4_NeverShow
+Cerebral palsy,Ibuprofen,3_BadButForgivable
+Cerebral palsy,Baclofen,2_Acceptable
+Cerebral palsy,Botulinum toxin type b,2_Acceptable
+Cerebral palsy,Carbamazepine,2_Acceptable
+DDX3Y,dna double stranded,4_NeverShow
+DDX3Y,Small molecule,4_NeverShow
+Ehlers-Danlos Syndrome,methylphenidate,4_NeverShow
+Ehlers-Danlos Syndrome,Omniscan,4_NeverShow
+Ehlers-Danlos Syndrome,Gadobutrol,4_NeverShow
+Ehlers-Danlos Syndrome,Gadopentetate dimeglumine,4_NeverShow
+Ehlers-Danlos Syndrome,alendronic acid,4_NeverShow
+Exfoliative Dermatitis,Imatinib,4_NeverShow
+Exfoliative Dermatitis,Sorafenib,4_NeverShow
+Exfoliative Dermatitis,Toluene,4_NeverShow
+Exfoliative Dermatitis,Isoxaflutole,4_NeverShow
+Exfoliative Dermatitis,Clofenotane,4_NeverShow
+familial pityriasis rubra pilaris,retinol,3_BadButForgivable
+familial pityriasis rubra pilaris,Alcohols,4_NeverShow
+Fatal familial insomnia,Atom,4_NeverShow
+Fatal familial insomnia,Cell nucleus,4_NeverShow
+Fatal familial insomnia,salts,4_NeverShow
+Fatal familial insomnia,Water,5_OverlyGeneric
+Fatal familial insomnia,Water,4_NeverShow
+Fatal familial insomnia,Hydrogen(.),5_OverlyGeneric
+Fatal familial insomnia,Electrons,4_NeverShow
+Fatal familial insomnia,Anions,4_NeverShow
+Fatal familial insomnia,Oxygen,4_NeverShow
+Fatal familial insomnia,Cations,4_NeverShow
+Fatal familial insomnia,Halogen molecular entity,4_NeverShow
+Fatal familial insomnia,Nitrogen molecular entity,4_NeverShow
+Fatal familial insomnia,Alcohols,4_NeverShow
+Fatal familial insomnia,Molecule,4_NeverShow
+Fatal familial insomnia,Organic salt,4_NeverShow
+Fatal familial insomnia,Organic chemicals,4_NeverShow
+Fatal familial insomnia,Organic chloride salt,4_NeverShow
+Fatal familial insomnia,Oxygen,4_NeverShow
+Fatal familial insomnia,Analgesics,4_NeverShow
+Fatal familial insomnia,Volatile organic compound,4_NeverShow
+Gaucher Disease type1,Eliglustat,1_TopAnswer
+Gaucher Disease type1,Imiglucerase,1_TopAnswer
+Gaucher Disease type1,Taliglucerase alfa,1_TopAnswer
+Gaucher Disease type1,Velaglucerase-alfa,1_TopAnswer
+Gaucher Disease type1,Miglustat,1_TopAnswer
+Heart Disorder,fibrinogen,4_NeverShow
+Hereditary Sensory And Autonomic Neuropathy Type,"Immunoglobulins, intravenous",4_NeverShow
+Hereditary Sensory And Autonomic Neuropathy Type,Isoxaflutole,4_NeverShow
+Hereditary sensory and autonomic neuropathy type 4,Carbon,4_NeverShow
+Hereditary sensory and autonomic neuropathy type 4,Botulinum toxin type a,4_NeverShow
+Hereditary sensory and autonomic neuropathy type 4,Methamidophos,4_NeverShow
+Hookworm Infectious Disease,Mebendazole,1_TopAnswer
+Hookworm Infectious Disease,Pyranthel,1_TopAnswer
+Hookworm Infectious Disease,Thiabendazole,1_TopAnswer
+Hookworm Infectious Disease,Dichlorophen,3_BadButForgivable
+Lactose intolerance,Lactase,1_TopAnswer
+Lactose intolerance,beta-Lactose,4_NeverShow
+Lactose intolerance,Plant extracts,4_NeverShow
+Lactose intolerance,Plant preparations,4_NeverShow
+Lactose intolerance,alpha-Lactose,4_NeverShow
+Lactose intolerance,Ergocalciferol,4_NeverShow
+Lactose intolerance,Mebendazole,4_NeverShow
+Lactose intolerance,Bithionol,4_NeverShow
+Lactose intolerance,Thiabendazole,4_NeverShow
+Lactose intolerance,Levamisole,4_NeverShow
+Lactose intolerance,Methamidophos,4_NeverShow
+Lactose intolerance,Potassium bicarbonate,4_NeverShow
+Lactose intolerance,Triclosan,4_NeverShow
+Lactose intolerance,Tacrolimus,4_NeverShow
+Malignant Hyperthermia Of Anesthesia,Halothane,4_NeverShow
+Malignant Hyperthermia Of Anesthesia,isoflurane,4_NeverShow
+Malignant Hyperthermia Of Anesthesia,Pharmaceutical preparations,4_NeverShow
+Malignant Hyperthermia Of Anesthesia,Carbon,4_NeverShow
+Malignant Hyperthermia Of Anesthesia,"Anesthetics, local",4_NeverShow
+Malignant Hyperthermia Of Anesthesia,4-aminopyridine,4_NeverShow
+Malignant Hyperthermia Of Anesthesia,Anesthetics,4_NeverShow
+Malignant Hyperthermia Of Anesthesia,Antibiotics,4_NeverShow
+Malignant Hyperthermia Of Anesthesia,basis,4_NeverShow
+Maturity-onset Diabetes Of The Young,"Receptor, insulin",4_NeverShow
+Maturity-onset Diabetes Of The Young,Autoantibodies,4_NeverShow
+Maturity-onset Diabetes Of The Young,Thyroid hormones,4_NeverShow
+Maturity-onset Diabetes Of The Young,Enzymes,4_NeverShow
+Maturity-onset Diabetes Of The Young,"Receptor, IGF Type 1",4_NeverShow
+Maturity-onset Diabetes Of The Young,Complement system proteins,4_NeverShow
+Maturity-onset Diabetes Of The Young,bisphenol A,4_NeverShow
+Migraine Disorder,Anticonvulsants,2_Acceptable
+Migraine Disorder,Topiramate,2_Acceptable
+Multiple Sclerosis,fingolimod,1_TopAnswer
+Multiple Sclerosis,natalizumab,1_TopAnswer
+Multiple Sclerosis,lead,4_NeverShow
+Multiple Sclerosis,sirolimus,1_TopAnswer
+Multiple Sclerosis,rituximab,1_TopAnswer
+Multiple Sclerosis,anakinra,1_TopAnswer
+Multiple Sclerosis,interferon-alpha,1_TopAnswer
+Multiple Sclerosis,iron,4_NeverShow
+multiple sclerosis,vaccines,4_NeverShow
+Multiple Sclerosis,Covid-19 vaccines,4_NeverShow
+Multiple Sclerosis,Influenza vaccines,4_NeverShow
+Multiple Sclerosis,"Vaccines, peptide",4_NeverShow
+Multiple Sclerosis,Metric,4_NeverShow
+Multiple Sclerosis,Agonists,4_NeverShow
+Multiple Sclerosis,Therapeutic agent,4_NeverShow
+Multiple Sclerosis,Vitamin supplementation,4_NeverShow
+Multiple Sclerosis,Anti-inflammatory agents,4_NeverShow
+Multiple Sclerosis,"Adjuvants, immunologic",4_NeverShow
+Multiple Sclerosis,Antibodies,5_OverlyGeneric
+Multiple Sclerosis,Anti-anxiety agents,4_NeverShow
+Multiple Sclerosis,"Antibodies, monoclonal",4_NeverShow
+Multiple Sclerosis,Biological products,4_NeverShow
+Multiple Sclerosis,Neuroprotective agents,4_NeverShow
+Multiple Sclerosis,Antibiotics,4_NeverShow
+Multiple Sclerosis,basis,4_NeverShow
+Multiple Sclerosis,Anticholinergic agents,2_Acceptable
+Multiple Sclerosis,Anticholinergic agents,5_OverlyGeneric
+Multiple Sclerosis,Analgesics,4_NeverShow
+Multiple Sclerosis,Mercury,4_NeverShow
+Multiple Sclerosis,Fatty acids,4_NeverShow
+Multiple Sclerosis,Plant extracts,4_NeverShow
+Multiple Sclerosis,"Drugs, chinese herbal",4_NeverShow
+Multiple Sclerosis,Carbon,4_NeverShow
+Multiple Sclerosis,Water,4_NeverShow
+NARP Syndrome,Valproic Acid,4_NeverShow
+NARP Syndrome,Barbiturates,4_NeverShow
+Nemaline myopathy,Tyrosine,2_Acceptable
+Nemaline myopathy,Melphalan,2_Acceptable
+Nemaline myopathy,"2,3,7,8-tetrachlorodibenzo-p-dioxin",4_NeverShow
+Nemaline myopathy,Thalidimide,2_Acceptable
+Niemann-Pick type C,miglustat,1_TopAnswer
+Obstructive Sleep Apnea,Soot,4_NeverShow
+Obstructive Sleep Apnea,Soot,2_Acceptable
+Premature Menopause,Hexadrin,4_NeverShow
+Premature Menopause,Busulfan,4_NeverShow
+Premature Menopause,Basis,4_NeverShow
+Premature Menopause,Lasofoxifene,4_NeverShow
+Premature Menopause,Busulfan,4_NeverShow
+Premature Menopause,estradiol,1_TopAnswer
+Premature Menopause,progestin,1_TopAnswer
+Rabies,Methionine,4_NeverShow
+Rabies,Cefaclor,4_NeverShow
+scotoma,Prednisone,4_NeverShow
+scotoma,vigabatrin,4_NeverShow
+Xeroderma Pigmentosum,cadmium,4_NeverShow
+Xeroderma Pigmentosum,mercury,4_NeverShow
+Absence,Gonadorelin acetate,1_TopAnswer
+Acute Lymphoblastic Leukemia,nelarabine,1_TopAnswer
+Adenocarcinoma of the Ovary,Altretamine,1_TopAnswer
+Advanced Adenocarcinoma,Altretamine,1_TopAnswer
+Alveolar echinococcosis,Albendazole,1_TopAnswer
+Amyloid cardiomyopathy,tafamidis meglumine,1_TopAnswer
+Amyloidosis,Inotersen,1_TopAnswer
+Autonomic failure,droxidopa,1_TopAnswer
+Autonomic neuropathy,droxidopa,1_TopAnswer
+Carcinomas,Thyrotropin alfa,1_TopAnswer
+Cervical spondylosis,baclofen,1_TopAnswer
+Chronic eosinophilic leukemia,Imatinib mesylate,1_TopAnswer
+Complication,Potassium citrate,1_TopAnswer
+corneal ulcers,Ofloxacin,1_TopAnswer
+Excessive daytime sleepiness,Modafinil,1_TopAnswer
+Familial Mediterranean Fever,colchicine,1_TopAnswer
+fatty acid oxidation disorder,triheptanoin,1_TopAnswer
+Hemoglobin S,Hydroxyurea,1_TopAnswer
+Hormone refractory prostate cancer,Mitoxantrone,1_TopAnswer
+Human cytomegalovirus,letermovir,1_TopAnswer
+Hutchinson-Gilford Progeria Syndrome,lonafarnib,1_TopAnswer
+Hydatid Disease,Albendazole,1_TopAnswer
+hydroxylase deficiency,droxidopa,1_TopAnswer
+Hypocalcemia,Teriparatide,1_TopAnswer
+Hypothalamic amenorrhea,Gonadorelin acetate,1_TopAnswer
+Idiopathic Hypereosinophilic Syndrome,Imatinib mesylate,1_TopAnswer
+large cell lymphoma,crizotinib,1_TopAnswer
+lead poisoning in children,Succimer,1_TopAnswer
+LEPTIN RECEPTOR DEFICIENCY,setmelanotide,1_TopAnswer
+Lithiasis,Potassium citrate,1_TopAnswer
+Malabsorption,Glutamine,1_TopAnswer
+Metastatic Carcinoma,Toremifene,1_TopAnswer
+Myeloma,dexamethasone,1_TopAnswer
+Myelosuppression,Pegfilgrastim,1_TopAnswer
+Neurofibromatosis type 1,selumetinib,1_TopAnswer
+Nodal Marginal Zone Lymphoma,bendamustine hydrochloride,1_TopAnswer
+Organic acidemias,carglumic acid,1_TopAnswer
+OROTIC ACIDURIA,uridine triacetate,1_TopAnswer
+Panuveitis,difluprednate,1_TopAnswer
+Parathyroid Carcinoma,cinacalcet,1_TopAnswer
+Pigmented villonodular synovitis,pexidartinib,1_TopAnswer
+Refractory CLL,Fludarabine phosphate,1_TopAnswer
+SCD,Voxelotor,1_TopAnswer
+Seizure,midazolam,1_TopAnswer
+Spinal Diseases,baclofen,1_TopAnswer
+Systemic disease,chenodiol,1_TopAnswer
+Systemic mastocytosis,Imatinib mesylate,1_TopAnswer
+Thyroid carcinoma,vandetanib,1_TopAnswer
+Traumatic anterior uveitis,difluprednate,1_TopAnswer
+whipworm,mebendazole,1_TopAnswer
